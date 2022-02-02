@@ -9,8 +9,11 @@
 - Clonar da maquina para o GitHub:
 
 1. Executar o GitBash no diretório desejado.
-2. Dentro do prompt, execute o comando "git add".
+2. Dentro do prompt, execute o comando "git add .".
 3. Uma vez detectados os arquivos desejados, digite o comando "git commit -m" para criar uma anotação sobre o que esta sendo upado.
+4. Use o comando "git status" para verificar os arquivos para o push.
+5. Digite o comando "git push origin main" para mandar os arquivos para o GitHub.
+6. Com tudo certinho, basta atualizar a página, para ver os arquivos no repositório.
 
 
 - Verificar arquivos novos na pasta:
