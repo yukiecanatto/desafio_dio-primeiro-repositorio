@@ -11,10 +11,11 @@
 1. Executar o GitBash no diretório desejado.
 2. Dentro do prompt, execute o comando "git status".
 3. Uma vez detectados os arquivos desejados, digite o comando "git add ." para indicar que você deseja upar os arquivos.
-4. Digite "git commit -m" para criar uma anotação sobre o que esta sendo upado.
-5. Use o comando "git status" para verificar os arquivos para o push.
-6. Digite o comando "git push origin main" para mandar os arquivos para o GitHub.
-7. Com tudo certinho, basta atualizar a página, para ver os arquivos no repositório.
+4. Novamente "git status" para ver os arquivos.
+5. Digite "git commit -m" para criar uma anotação sobre o que esta sendo upado.
+6. Use o comando "git status" para verificar os arquivos para o push.
+7. Digite o comando "git push origin main" para mandar os arquivos para o GitHub.
+8. Com tudo certinho, basta atualizar a página, para ver os arquivos no repositório.
 
 
 - Verificar arquivos novos na pasta:
