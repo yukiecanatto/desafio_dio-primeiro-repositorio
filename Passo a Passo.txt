@@ -1,0 +1,21 @@
+- Clonar do GitHub para a maquina, atravéz do GitBash:
+
+1. Ter instalado o GitBash.
+2. Executar o GitBash dentro do diretório(pasta/local) desejado. Basta clicar com o botão direito dentro do diretório escolhido, e na janela de opções, executar o "Git Bash Here".
+3. Dentro do prompt de comando do GitBash, digite o comanto "git clone 'o código HTTPS do seu repositório no GitHub'", e tecle enter.
+4. Se tudo der certo, o repositório será copiado para a sua maquina.
+
+
+- Clonar da maquina para o GitHub:
+
+1. Executar o GitBash no diretório desejado.
+2. Dentro do prompt, execute o comando "git add".
+3. Uma vez detectados os arquivos desejados, digite o comando "git commit -m" para criar uma anotação sobre o que esta sendo upado.
+
+
+- Verificar arquivos novos na pasta:
+
+1. Executar o GitBash no diretório desejado.
+2. Dentro do prompt, execute o comando "git status".
+3. Se tudo funcionar, ele exibirá os arquivos novos dentro da pasta.
+

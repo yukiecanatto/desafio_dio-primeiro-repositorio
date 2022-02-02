@@ -1,0 +1,2 @@
+Link para dowload: https://git-scm.com/downloads
+Git é uma ferramenta semelhante ao prompt de comando do windows, com o objetivo de agilizar o uso do Git.
